@@ -14,3 +14,4 @@
 <https://hackmd.io/@aKCnDDLTTTCjDP311uV7Sg/BkBf2Gmvv>
 
 ## PERT/CPM圖
+![](https://i.imgur.com/MCCJTYz.jpg)
