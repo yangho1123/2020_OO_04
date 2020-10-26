@@ -28,7 +28,7 @@
              3.可靠度：
              
 功能分解圖：
-![](https://imgur.com/B1ynrFu.jpg)
+![](https://imgur.com/B1ynrFu)
 
 二手車保養履歷系統的需求分析簡述如下：
 (1)
