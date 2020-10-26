@@ -40,4 +40,4 @@
 5. 車商/保養廠運用此系統對保養資料進行統一管理
 
 使用案例圖：
-![](https://i.imgur.com/BhVVRxS.jpg)
+![](https://i.imgur.com/1h15MMB.jpg)
