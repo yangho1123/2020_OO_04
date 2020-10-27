@@ -43,5 +43,8 @@
 4. 保養廠記錄所有保養過程
 5. 車商/保養廠運用此系統對保養資料進行統一管理
 
+使用案例圖：
+![](https://i.imgur.com/b4ykFU1.jpg)
+
 使用案例說明：
 ![](https://i.imgur.com/1h15MMB.jpg)
