@@ -50,3 +50,11 @@
 
 使用案例說明：
 ![](https://i.imgur.com/1h15MMB.jpg)
+
+
+系統環境圖：
+![](https://i.imgur.com/SWngkdr.jpg)
+
+
+DFD圖0：
+![](https://i.imgur.com/mglPRSb.jpg)
