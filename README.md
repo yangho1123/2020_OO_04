@@ -63,6 +63,6 @@ DFD圖0：
 ![]()
 
 活動圖：
-![](https://i.imgur.com/Rwfl2S8.jpg)
+![]()
 
 
