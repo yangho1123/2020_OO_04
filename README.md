@@ -62,5 +62,7 @@ DFD圖0：
 類別圖：
 ![]()
 
+活動圖：
+![](https://imgur.com/a/UKrQSvj)
 
 
