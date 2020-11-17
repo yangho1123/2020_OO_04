@@ -60,7 +60,7 @@ DFD圖0：
 ![](https://i.imgur.com/mglPRSb.jpg)
 
 類別圖：
-![]()
+![](https://i.imgur.com/v4oX7dA.jpg)
 
 活動圖：
 ![](https://app.lucidchart.com/lucidchart/invitations/accept/f2b5d8b0-b561-49ae-adab-191a606e72fd)
