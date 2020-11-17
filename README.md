@@ -68,4 +68,10 @@ DFD圖0：
 ![Imgur](https://i.imgur.com/BH0sufH.jpg)
 ![Imgur](https://i.imgur.com/Plls6KS.jpg)
 
+循序圖 :
+
+![](https://i.imgur.com/ZfDB5AE.jpg)
+![](https://i.imgur.com/yaJhRAA.jpg)
+![](https://i.imgur.com/LPG0NEs.jpg)
+
 
