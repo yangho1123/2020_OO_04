@@ -76,5 +76,5 @@ DFD圖0：
 
 分鏡板：
 
-![](https://i.imgur.com/iQKDaDj.jpg)
+![](https://i.imgur.com/FZHr6BZ.jpg)
 
