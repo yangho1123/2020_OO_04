@@ -78,3 +78,7 @@ DFD圖0：
 
 ![](https://i.imgur.com/48F8ENY.jpg)
 
+實體關係圖：
+
+![](https://i.imgur.com/IbtKeZw.jpg)
+
