@@ -34,7 +34,7 @@
 3. 可靠度：高，不能隨意修改
              
 功能分解圖：
-![](https://i.imgur.com/qYbizew.jpg)
+![](https://i.imgur.com/nfeXf3l.jpg)
 
 二手車保養履歷系統的需求分析簡述如下：
 1. 車商建立二手車資料
