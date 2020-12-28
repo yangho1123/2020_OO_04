@@ -8,6 +8,8 @@
 
 ## 專題內容：區塊鏈應用，讓車商針對二手車的管理及保養歷程更有依據，且讓消費者放心
 
+## 期末簡報<https://drive.google.com/file/d/1T8OELmajMUvxAlVNgdWOPkA44aQ975DR/view?usp=sharing>
+
 ## 工作分配
 + 陳馨維 Chaincode撰寫、go sdk設置
 + 林淙琭 goweb設計
