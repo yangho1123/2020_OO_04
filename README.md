@@ -11,9 +11,9 @@
 ## [期末簡報](https://drive.google.com/file/d/1T8OELmajMUvxAlVNgdWOPkA44aQ975DR/view?usp=sharing)
 
 ## 工作分配
-+ 陳馨維 Chaincode撰寫、go sdk設置
-+ 林淙琭 goweb設計
-+ 何暘 goweb設計、go sdk設置
++ 陳馨維 Chaincode撰寫、go sdk串接
++ 林淙琭 網頁設計
++ 何暘 goweb功能設計
 
 ## 甘特圖
 
